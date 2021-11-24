@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>hugo on Home</title>
+    <link>https://cloud0204.github.io/zh-tw/tags/hugo/</link>
+    <description>Recent content in hugo on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <managingEditor>cloud7777222@yahoo.com.tw (cloud)</managingEditor>
+    <webMaster>cloud7777222@yahoo.com.tw (cloud)</webMaster>
+    <copyright>©2021, All Rights Reserved</copyright>
+    <lastBuildDate>Wed, 24 Nov 2021 23:35:56 +0800</lastBuildDate>
+    
+        <atom:link href="https://cloud0204.github.io/zh-tw/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>如何使用Hugo</title>
+        <link>https://cloud0204.github.io/zh-tw/posts/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8hugo/</link>
+        <pubDate>Wed, 24 Nov 2021 23:35:56 +0800</pubDate>
+        <author>cloud7777222@yahoo.com.tw (cloud)</author>
+        <atom:modified>Wed, 24 Nov 2021 23:35:56 +0800</atom:modified>
+        <guid>https://cloud0204.github.io/zh-tw/posts/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8hugo/</guid>
+        <description>如何使用Hugo 1. 環境需求 Hugo 是跨平台的 2. 安裝Homebrew (macOS or Linux) Homebrew 包管理器可用於 Linux 和Windows Linux 子系統 (WSL)。在 Linux 或 WSL 上運行時，H</description>
+        
+        <dc:creator>Cloud</dc:creator>
+        <media:content url="https://cloud0204.github.io/images/feature1/markdown.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>hugo</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
