@@ -14,11 +14,115 @@
     <managingEditor>cloud7777222@yahoo.com.tw (cloud)</managingEditor>
     <webMaster>cloud7777222@yahoo.com.tw (cloud)</webMaster>
     <copyright>©2021, All Rights Reserved</copyright>
-    <lastBuildDate>Wed, 24 Nov 2021 23:35:56 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 27 Nov 2021 23:35:09 +0800</lastBuildDate>
     
         <atom:link href="https://cloud0204.github.io/zh-tw/posts/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>gradle使用</title>
+        <link>https://cloud0204.github.io/zh-tw/posts/gradle%E4%BD%BF%E7%94%A8/</link>
+        <pubDate>Sat, 27 Nov 2021 23:35:09 +0800</pubDate>
+        <author>cloud7777222@yahoo.com.tw (cloud)</author>
+        <atom:modified>Sat, 27 Nov 2021 23:35:09 +0800</atom:modified>
+        <guid>https://cloud0204.github.io/zh-tw/posts/gradle%E4%BD%BF%E7%94%A8/</guid>
+        <description>build.gradle 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69</description>
+        
+        <dc:creator>Cloud</dc:creator>
+        <media:content url="https://cloud0204.github.io/images/feature3/code-file.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>gradle</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+              <category>setting</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Maven使用</title>
+        <link>https://cloud0204.github.io/zh-tw/posts/maven%E4%BD%BF%E7%94%A8/</link>
+        <pubDate>Sat, 27 Nov 2021 16:44:09 +0800</pubDate>
+        <author>cloud7777222@yahoo.com.tw (cloud)</author>
+        <atom:modified>Sat, 27 Nov 2021 16:44:09 +0800</atom:modified>
+        <guid>https://cloud0204.github.io/zh-tw/posts/maven%E4%BD%BF%E7%94%A8/</guid>
+        <description>pom.xml 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69</description>
+        
+        <dc:creator>Cloud</dc:creator>
+        <media:content url="https://cloud0204.github.io/images/feature3/code-file.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>maven</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+              <category>setting</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>如何使用Spring_Boot</title>
+        <link>https://cloud0204.github.io/zh-tw/posts/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8spring_boot/</link>
+        <pubDate>Fri, 26 Nov 2021 14:27:46 +0800</pubDate>
+        <author>cloud7777222@yahoo.com.tw (cloud)</author>
+        <atom:modified>Fri, 26 Nov 2021 14:27:46 +0800</atom:modified>
+        <guid>https://cloud0204.github.io/zh-tw/posts/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8spring_boot/</guid>
+        <description>簡介 Spring Boot，Spring 和Spring MVC差別? Spring是一種框架，包含一系列的IoC容器的設計和依賴注入(DI)及整合AOP功能</description>
+        
+        <dc:creator>Cloud</dc:creator>
+        <media:content url="https://cloud0204.github.io/images/logo/spring-logo.svg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Spring Boot</category>
+            
+          
+        
+        
+          
+            
+              <category>java</category>
+            
+          
+        
+        
+          
+            
+              <category>如何使用</category>
+            
+          
+        
+      </item>
       
       <item>
         <title>如何使用Hugo</title>
@@ -43,10 +147,14 @@
         
           
             
+              <category>templete</category>
+            
           
         
         
           
+            
+              <category>如何使用</category>
             
           
         
