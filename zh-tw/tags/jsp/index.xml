@@ -6,9 +6,9 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>maven on Home</title>
-    <link>https://cloud0204.github.io/zh-tw/tags/maven/</link>
-    <description>Recent content in maven on Home</description>
+    <title>jsp on Home</title>
+    <link>https://cloud0204.github.io/zh-tw/tags/jsp/</link>
+    <description>Recent content in jsp on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <managingEditor>cloud7777222@yahoo.com.tw (cloud)</managingEditor>
@@ -16,7 +16,7 @@
     <copyright>©2021, All Rights Reserved</copyright>
     <lastBuildDate>Sun, 28 Nov 2021 15:55:22 +0800</lastBuildDate>
     
-        <atom:link href="https://cloud0204.github.io/zh-tw/tags/maven/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://cloud0204.github.io/zh-tw/tags/jsp/index.xml" rel="self" type="application/rss+xml" />
     
 
       
@@ -57,40 +57,6 @@
           
             
               <category>template</category>
-            
-          
-        
-      </item>
-      
-      <item>
-        <title>Maven使用</title>
-        <link>https://cloud0204.github.io/zh-tw/posts/maven%E4%BD%BF%E7%94%A8/</link>
-        <pubDate>Sat, 27 Nov 2021 16:44:09 +0800</pubDate>
-        <author>cloud7777222@yahoo.com.tw (cloud)</author>
-        <atom:modified>Sat, 27 Nov 2021 16:44:09 +0800</atom:modified>
-        <guid>https://cloud0204.github.io/zh-tw/posts/maven%E4%BD%BF%E7%94%A8/</guid>
-        <description>pom.xml 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69</description>
-        
-        <dc:creator>Cloud</dc:creator>
-        <media:content url="https://cloud0204.github.io/images/feature3/code-file.png" medium="image"><media:title type="html">featured image</media:title></media:content>
-        
-        
-        
-          
-            
-              <category>maven</category>
-            
-          
-        
-        
-          
-            
-          
-        
-        
-          
-            
-              <category>setting</category>
             
           
         

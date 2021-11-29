@@ -14,7 +14,7 @@
     <managingEditor>cloud7777222@yahoo.com.tw (cloud)</managingEditor>
     <webMaster>cloud7777222@yahoo.com.tw (cloud)</webMaster>
     <copyright>©2021, All Rights Reserved</copyright>
-    <lastBuildDate>Sat, 27 Nov 2021 23:35:09 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 28 Nov 2021 15:55:22 +0800</lastBuildDate>
     
         <atom:link href="https://cloud0204.github.io/zh-tw/index.xml" rel="self" type="application/rss+xml" />
     
@@ -40,6 +40,48 @@
         
       
 
+      
+      <item>
+        <title>Thymeleaf</title>
+        <link>https://cloud0204.github.io/zh-tw/posts/thymeleaf/</link>
+        <pubDate>Sun, 28 Nov 2021 15:55:22 +0800</pubDate>
+        <author>cloud7777222@yahoo.com.tw (cloud)</author>
+        <atom:modified>Sun, 28 Nov 2021 15:55:22 +0800</atom:modified>
+        <guid>https://cloud0204.github.io/zh-tw/posts/thymeleaf/</guid>
+        <description>Thymeleaf 可以取代JSP https://www.thymeleaf.org/documentation.html Can Thymeleaf be used as a complete substitute for JSP and JSTL? 究竟Thymeleaf能否完全取代JSP and JSTL? Absolutely. Not only it can, but we strongly encourage you to do so. 絕對可以，而且我們強烈鼓勵你</description>
+        
+        <dc:creator>Cloud</dc:creator>
+        <media:content url="https://cloud0204.github.io/images/feature3/code-file.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Thymeleaf</category>
+            
+          
+            
+              <category>maven</category>
+            
+          
+            
+              <category>jsp</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+              <category>template</category>
+            
+          
+        
+      </item>
       
       <item>
         <title>gradle使用</title>
